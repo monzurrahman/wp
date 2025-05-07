@@ -1,10 +1,14 @@
 <?php
 /**
  * Plugin Name: Plugin Conflict Detector
- * Description: Automatically detects plugin conflicts after activation or updates.
- * Version: 1.0
- * Author: Monzur
+ * Plugin URI: https://wordpress.org/plugins/plugin-conflict-detector/
+ * Description: Automatically detects and logs plugin conflicts that may cause fatal errors or site malfunctions.
+ * Version: 1.0.0
+ * Author: Your Name
+ * Author URI: https://github.com/monzurrahman/wp/tree/main/plugins/PluginConflictDetector
  * Text Domain: plugin-conflict-detector
+ * Domain Path: /languages
+ * License: GPL2
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
