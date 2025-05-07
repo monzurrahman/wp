@@ -1,0 +1,10 @@
+.wrap h1 {
+    margin-bottom: 20px;
+}
+
+table.widefat td pre {
+    white-space: pre-wrap;
+    font-family: monospace;
+    background: #f9f9f9;
+    padding: 10px;
+}
